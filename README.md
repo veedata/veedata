@@ -16,7 +16,8 @@
   <summary>Some more things about me</summary>
   <br>
 
-👑   Some GitHub statistical reports:
+
+Some GitHub statistics:
 
 <a href="https://github.com/veedata">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -30,6 +31,13 @@
 </details>
   
 <hr>
+
+Get in touch
+
+<p align="center">
+<a href= "https://www.linkedin.com/in/veedata/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=veedata" alt="visitor badge"/>       
