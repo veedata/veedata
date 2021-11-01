@@ -1,16 +1,14 @@
 ### Hi there 👋
 
+Soon to be Masters Student, particularly insetested in **Data Science, Computer Vision** and **Mechatronics**. ✨
 
-<!-- <h3 align="center">👋 Hi there! I'm Viraj</h3>
-<p align="center"> -->
-  <!-- <a href="Coming Soon">Website</a> • -->
-  <!-- <a href="https://stackoverflow.com/users/11215536/veedata">Stack Overflow</a> •
-  <a href="https://twitter.com/TheViraj_T">Twitter</a> •
-  <a href="https://www.linkedin.com/in/veedata/">LinkedIn</a>
-</p> -->
+* 🧐   Interested in full stack. Recent focus on backend.
+* 🎓   Bachelor of Technology in information Technology.
+* 💻   Currently working on [Memories](https://github.com/veedata/memories).
+* 📚   Reading more about Apple, Harry Potter and how the computer works.
+* ✍🏻   Website coming soon.
 
 ---
-
 
 <details>
   <summary>Some more things about me</summary>
@@ -36,7 +34,8 @@ Get in touch
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/veedata/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://twitter.com/TheViraj_T"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<!-- <a href= "mail:"><img src="https://img.icons8.com/material-outlined/30/000000/new-post.png"/></a> -->
 </p>
 
 <p  align="center">
