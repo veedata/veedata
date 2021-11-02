@@ -17,14 +17,19 @@ Soon to be Masters Student, particularly insetested in **Data Science, Computer 
 
 Some GitHub statistics:
 
-<a href="https://github.com/veedata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<p>
+  <a href="https://github.com/veedata" style={"padding":10px}>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  </a>
+
+  <a href="https://github.com/veedata">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=veedata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Viraj's GitHub Stats" />
+  </a>
+</p>
 
 <a href="https://github.com/veedata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=veedata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Viraj's GitHub Stats" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=veedata&column=7&margin-w=13&theme=monokai" alt="Viraj's GitHub Trophy" />
 </a>
-
 
 </details>
   
