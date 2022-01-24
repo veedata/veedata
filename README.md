@@ -17,13 +17,13 @@ Soon to be Masters Student, particularly insetested in **Data Science, Computer 
   Some GitHub statistics:
 
   <p>
-    <a href="https://github.com/veedata" style={"padding":10px}>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-    </a>
+  <a href="https://github.com/veedata" style={"padding":10px}>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veedata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  </a>
 
-    <a href="https://github.com/veedata">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=veedata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Viraj's GitHub Stats" />
-    </a>
+  <a href="https://github.com/veedata">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=veedata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Viraj's GitHub Stats" />
+  </a>
   </p>
 
   <a href="https://github.com/veedata">
