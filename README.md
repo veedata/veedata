@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Soon to be Masters Student, particularly insetested in **Data Science, Computer Vision** and **Mechatronics**. ✨
+Masters Student at Arizona State University, particularly insetested in **Data Science, Computer Vision** and **Mechatronics**. ✨
 
 * 🧐   Interested in full stack. Focused on backend.
 * 🎓   Bachelor of Technology in information Technology.
