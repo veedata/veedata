@@ -6,7 +6,7 @@ Masters Student at Arizona State University, particularly insetested in **Data S
 * 🎓   Bachelor of Technology in information Technology.
 * 💻   Currently working on [Memories](https://github.com/veedata/memories).
 * 📚   Reading more about Microsoft, Python and how things work.
-* ✍🏻   Website now live at https://veedata.github.io/!
+* ✍🏻   Check out my website https://veedata.github.io/!
 
 ---
 
