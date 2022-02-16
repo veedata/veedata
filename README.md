@@ -37,9 +37,9 @@ Masters Student at Arizona State University, particularly insetested in **Data S
 Get in touch
 
 <p align="center">
-  <a href= "https://veedata.github.io"><img src="https://img.icons8.com/material-outlined/30/000000/domain.png#gh-light-mode-only"/></a><a href= "https://veedata.github.io"><img src="https://img.icons8.com/material-outlined/30/ffffff/domain.png#gh-dark-mode-only"/></a>
-  <a href= "https://www.linkedin.com/in/veedata/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png#gh-light-mode-only"/></a><a href= "https://www.linkedin.com/in/veedata/"><img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png#gh-dark-mode-only"/></a>
-  <a href= "https://twitter.com/TheViraj_T"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png#gh-light-mode-only"/></a><a href= "https://twitter.com/TheViraj_T"><img src="https://img.icons8.com/material-outlined/30/ffffff/twitter.png#gh-dark-mode-only"/></a>
+  <a href="https://veedata.github.io#gh-light-mode-only"><img src="https://img.icons8.com/material-outlined/30/000000/domain.png"/></a><a href= "https://veedata.github.io#gh-dark-mode-only"><img src="https://img.icons8.com/material-outlined/30/ffffff/domain.png"/></a>
+  <a href= "https://www.linkedin.com/in/veedata#gh-light-mode-only"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a><a href= "https://www.linkedin.com/in/veedata#gh-dark-mode-only"><img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png"/></a>
+  <a href= "https://twitter.com/TheViraj_T#gh-light-mode-only"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a><a href= "https://twitter.com/TheViraj_T#gh-dark-mode-only"><img src="https://img.icons8.com/material-outlined/30/ffffff/twitter.png"/></a>
   <!-- <a href= "mail:"><img src="https://img.icons8.com/material-outlined/30/000000/new-post.png"/></a> --><!-- <a href= "mail:"><img src="https://img.icons8.com/material-outlined/30/ffffff/new-post.png"/></a> -->
 </p>
 
