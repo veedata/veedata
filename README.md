@@ -4,7 +4,7 @@ Masters Student at Arizona State University, particularly insetested in **Data S
 
 * 🧐   Interested in full stack. Focused on backend.
 * 🎓   Bachelor of Technology in information Technology.
-* 💻   Currently working on [Memories](https://github.com/veedata/memories).
+* 💻   Currently working on [Memories](https://github.com/veedata/memories) and rocksdb-hdfs.
 * 📚   Reading more about Microsoft, Python and how things work.
 * ✍🏻   Check out my website https://veedata.github.io/!
 
