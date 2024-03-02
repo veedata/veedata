@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Masters Student at Arizona State University, particularly insetested in **Data Science, Computer Vision** and **Mechatronics**. ✨
+PhD Student at Arizona State University. Tinkering with hardware and software. Always looking towards working at the intersection of new, exciting and stressful. ✨
 
-* 🧐   Interested in full stack. Focused on backend.
-* 🎓   Bachelor of Technology in information Technology.
-* 💻   Currently working on [Memories](https://github.com/veedata/memories) and rocksdb-hdfs.
-* 📚   Reading more about Microsoft, Python and how things work.
-* ✍🏻   Check out my website https://veedata.github.io/!
+* 🧐   Interested in databases. Focused on LSM-based KVS.
+* 💻   Currently working on a lot! [[Reach out](mailto:viraj.online@asu,edu)]
+* 📚   Reading more about Microsoft, C++ and how things work.
+* ✍🏻   Check out my (not so complete) website https://veedata.github.io/!
+* 📫   Connect with me on [linkedin](https://www.linkedin.com/in/veedata/)
 
 ---
 
